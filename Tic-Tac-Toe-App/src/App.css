@@ -1,0 +1,23 @@
+.board-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.game {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+.history-button {
+    height: 50px;
+}
